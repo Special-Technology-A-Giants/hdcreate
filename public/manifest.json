@@ -1,0 +1,18 @@
+{
+  "name": "createstars",
+  "short_name": "createstars",
+  "description": "Our mission is to build a Nigerian society without poverty, discrimination and fear; where talents and creative thinking are encouraged and translated into sustainable wealth and the courage to lead and make innovative, positive decisions",
+  "lang": "en",
+  "start_url": "https://www.createstars.org/",
+  "scope": "https://www.createstars.org/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "https://www.createstars.org/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
